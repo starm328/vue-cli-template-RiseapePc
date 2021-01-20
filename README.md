@@ -12,7 +12,7 @@
 
 ## Project setup
 ```
-vue create --preset direct:https://github.com/starm328/vue-cli-template-RisepaePc.git <project-name>
+vue create --preset starm328/vue-cli-template-RiseapePc <project-name>
 ```
 
 ```
