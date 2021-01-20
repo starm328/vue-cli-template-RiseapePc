@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-template-riseape",
+  "version": "1.0.0",
+  "description": "包含axios-router-store的常用cli",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "starmbest@qq.com",
+  "license": "ISC"
+}

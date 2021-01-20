@@ -1,0 +1,29 @@
+@font-face {font-family: "stmicon";
+  src: url('iconfont.eot?t=1592213136114'); /* IE9 */
+  src: url('iconfont.eot?t=1592213136114#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQQAAsAAAAACHwAAAPBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqEQIN2ATYCJAMQCwoABCAFhG0HRRtdB1GU7kmI7GtMYYzdNIJIUhgbHNXStoCC88k4XwGUq5PivNFjgOz+h+fWAxAP0Vi/N7vzVZMakC7ilkwSSawkEoR4KSCeyN7NO/e/a/qveCN4PiMqqyErhIPkgNN0CHo1fmwnPJDdhKuc6nLg6//v19b77CbEvCSGUMynE6pJ/VS3lY7JhaT9QiOUs4av9X2YNzQe4IQTodhagfx/U1Vdcfmfy+nN5wfW+nZWOYw1aKxFh1Fa3PNeQHvrJiuQwLxheokD8ekygW5T2nG7R6fngJe8WYG4oikC8DWLHCkNnUJ7z8YU9yCos9zhvALupt+PbxLBU7RV3sLjl0dk6P/If9zs9P8U1mIEpPu5wLZRsQFI4lKv5wx/Ht/Ar9ucFrAJaJdC+dj1cfOzpzi1cE/p/f94RSXaeZpeSDYSlY98SBN8LKApfOy2qBDP6Z3own0AXwA5MaBIdZDvrtbz8VOEzoNPA7YlC1CNwsqFaJOLMKPlBqrFeDtZzLq4lWI+0WnQgGryuawgG1SjuELM1FmeAEWiPk0sbuQMX+dv3yNqQjWaJ2iwKN1OYYbdUvTA2i+nenK5iZVcu65SOqk9IpMPvE53uikvxNReC1G9o+JaLQWyeS7kz39G1PUnT5Hf+QWX7/92z1KQZu1sqegNO0lBkkXiWCxVahHIAvGp2Bu170hAWowBV8cryVgzktfY4g1iy+KLClKip6TnKK9QUpoMLZON1qTj1k3KDADTwvdidKDUfOqbSomiWUt9Cp9Y+1//s49LDaSKwNjwaG3LTeo6NLfVuZUIdYaSW4/NXPBX86mCVHSFaOfy+6L/Tdm3IjcAWt9g+1aAFlliEKAV8bIe+fW/0dj03VZZ9x9flOBDycVs6m1FmlcIOhVmS390r+QgudzLz0RGvyS0iEy7v5KloNu38oPLYdjvHrqx2cWETmMlFB0moeq0gCa5Adr0aEC7Ttug27qx7T1GUH6RXVhzBSAMeoCi3yOoBr2gSf5Am3E5aDcYfuh2IqoO7LEUWuEQxQLDMhL3kCY5NgnsrDArncFKxhRoVZ6yFjBNayEUj8SaqTFsY7rHkvS2kmCMIEIdC42C67BpOsiljo4lFlEZczujUdL3pojkWFBoFwoTMJgMEe1BNBKHjcSdmcLW52dgigyTgI4wGv4FGJWm9Y/ERcRmoGMaexbjXYanbVMkMAzB0wjKYUFGoQsz/bgDcfvH6TAJE6GuiLo6RVEzMlcTOV9nPeEu6OZdk1GiRkabjtuqYEtqhk9HxEO7WkYRNAAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1592213136114') format('woff'),
+  url('iconfont.ttf?t=1592213136114') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1592213136114#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.stmicon {
+  font-family: "stmicon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shanchu:before {
+  content: "\e608";
+}
+
+.icon-shanchu1:before {
+  content: "\e609";
+}
+
+.icon-xiugai:before {
+  content: "\e63c";
+}
+
