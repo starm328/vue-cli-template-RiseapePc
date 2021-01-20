@@ -1,47 +1,17 @@
 {
   "useTaobaoRegistry": true,
-  "presets": {
-    "starm": {
-      "useConfigFiles": true,
-      "plugins": {
-        "@vue/cli-plugin-babel": {},
-        "@vue/cli-plugin-eslint": {
-          "config": "base",
-          "lintOn": [
-            "save"
-          ]
-        }
-      },
-      "router": true,
-      "routerHistoryMode": false,
-      "cssPreprocessor": "less"
-    },
-    "starm-project": {
-      "useConfigFiles": false,
-      "plugins": {
-        "@vue/cli-plugin-babel": {},
-        "@vue/cli-plugin-eslint": {
-          "config": "base",
-          "lintOn": [
-            "save"
-          ]
-        }
-      },
-      "router": true,
-      "routerHistoryMode": false,
-      "vuex": true
-    },
-    "project": {
-      "useConfigFiles": true,
-      "plugins": {
-        "@vue/cli-plugin-babel": {}
-      },
-      "router": true,
-      "routerHistoryMode": false,
-      "vuex": true
+  "useConfigFiles": true,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "base",
+      "lintOn": [
+        "save"
+      ]
     }
   },
-  "packageManager": "npm",
-  "latestVersion": "4.5.10",
-  "lastChecked": 1611124580306
+  "router": true,
+  "routerHistoryMode": false,
+  "cssPreprocessor": "less"
+  
 }
